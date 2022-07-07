@@ -1,1 +1,1 @@
-# Welcome To Decentralization.Software
+# Welcome
