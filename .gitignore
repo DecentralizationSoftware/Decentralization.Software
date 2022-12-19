@@ -1,2 +1,4 @@
-
+*.mov
 apps/
+.DS_Store
+m.bak
