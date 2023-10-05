@@ -2,4 +2,8 @@
 apps/
 .DS_Store
 m.bak
-videos/Home Webserver.mp4
+videos
+download
+.vscode
+wpserver/
+wpserver_code_canyon_doc/
